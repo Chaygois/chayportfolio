@@ -19,7 +19,7 @@
 
 .homepage-article-date {
 	opacity: 1;
-	color: var(--tertiary-color);
+	color: rgb(56, 209, 191) ;
 	font-size: 12px;
 	margin-bottom: 1em;
 }

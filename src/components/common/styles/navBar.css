@@ -42,17 +42,17 @@
 }
 
 .nav-item.active a {
-	color: var(--link-color) !important;
+color:	#4f4fb0;
 }
 
 .nav-item a {
 	text-decoration: none;
-	color: var(--primary-color);
+	color:	#4f4fb0;
+
 }
 
 .nav-item a:hover {
-	color: var(--link-color);
-	transition: color 0.3s ease-in-out;
+	color: rgb(56, 209, 191)	;
 }
 
 @media (max-width: 600px) {

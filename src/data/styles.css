@@ -1,10 +1,10 @@
 :root {
 	/* ------- colors ------- */
-	--primary-color: #27272a;
-	--secondary-color: #65656d;
+	--primary-color: #4f4fb0;
+	--secondary-color: rgb(5, 5, 110);
 	--tertiary-color: #acacb4;
 	--quaternary-color: #e4e4e7;
-	--link-color: #14b8a6;
+	--link-color: #906eee;
 	/* ---------------------- */
 
 	/* ------- fonts ------- */

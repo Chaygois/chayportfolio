@@ -60,13 +60,14 @@
 
 .homepage-social-icon {
 	padding-right: 20px;
-	font-size: 25px;
-	transition: color 0.2s ease-in-out;
-	color: var(--secondary-color);
+	font-size: 38px;
+	transition: color 0.3s ease-in-out;
+	color: var(--primary-color);
 }
 
+
 .homepage-social-icon:hover {
-	color: var(--primary-color);
+	color: rgb(56, 209, 191) ;
 }
 
 .homepage-after-title {
@@ -75,8 +76,10 @@
 
 .homepage-projects {
 	flex-basis: 300px;
-	padding-top: 40px;
+	padding-top: 80px;
+	color:#4a4aac;
 }
+
 
 .homepage-articles {
 	flex-basis: 900px;
