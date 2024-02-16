@@ -1,7 +1,7 @@
 const INFO = {
 	main: {
 		title: "Reactfolio by Chaygois",
-		name: "Tharindu N.",
+		name: "TChayannyG",
 		email: "chayannygois18@gmail.com",
 	},
 

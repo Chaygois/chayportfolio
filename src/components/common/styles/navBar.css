@@ -1,7 +1,6 @@
 @import "../../../data/styles.css";
 
 .nav-container {
-	margin: 0;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -11,7 +10,6 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	position: fixed;
 	top: 3vh;
 	z-index: 999;
 }
