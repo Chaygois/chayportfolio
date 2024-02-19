@@ -23,9 +23,8 @@ const INFO = {
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+		title: "I'm dedicated to exploring the frontiers of technology and inspiring the next generation of QA professionals..",
+		description:"Explore my in-depth insights on various aspects of quality assurance, software testing methodologies, leadership in QA teams, and more.",
 	},
 
 	projects: [

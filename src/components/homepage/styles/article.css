@@ -16,6 +16,10 @@
 .homepage-article-content {
 	padding: 30px;
 }
+.qa-photo {
+    width: 950px; /* Define a largura desejada */
+    height: auto; /* Mantém a proporção da imagem */
+}
 
 .homepage-article-date {
 	opacity: 1;
