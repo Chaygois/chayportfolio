@@ -17,7 +17,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Chay G. I live in , where I design the future.",
+		title: "Crafting Excellence: The Art of Quality Assurance in Software Development.",
 		description:
 		"Hello, I'm Chay G. I live in Fortaleza- CE BR, where I shape the future as a Quality Assurance (QA) professional.Over the years, I have contributed to a variety of projects and am proud of the progress I have made. Many of these projects are open source, available for other professionals to explore and contribute to. If you're interested in any of the projects I've worked on, feel free to check out the code and suggest improvements or enhancements. Collaborating with others is a great way to learn and evolve, and I m always open to new ideas and feedback.",
 	},
