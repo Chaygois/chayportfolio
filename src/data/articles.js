@@ -75,7 +75,7 @@ function article_1() {
 
 function article_2() {
   return {
-    date: '7 May 2023',
+    date: '9 May 2023',
     title: 'Mastering Software Testing: Key Principles and Practical Examples',
     description: 'Discover the essential principles of software testing with our comprehensive guide. This article delves into the critical role of testing in ensuring software quality, explores various types of testing with real-world analogies, and highlights fundamental principles that drive effective testing practices. Whether you are new to software testing or looking to refine your approach, this resource provides actionable insights and practical examples to enhance your understanding and application of software quality assurance.',
     style: `.article-content-2 {
@@ -149,7 +149,7 @@ function article_2() {
 }
 function article_3() {
   return {
-    date: '7 May 2023',
+    date: ' 20 May 2023',
     title: 'Essential Software Testing Techniques: A Comprehensive Overview',
     description:
       'Discover the vital role of software testing in ensuring system quality and reliability with our comprehensive guide. This article covers a spectrum of testing techniques, including black-box methods like equivalence partitioning and boundary value analysis, white-box approaches such as statement and branch testing, and experience-based techniques including error guessing, exploratory testing, and checklist-based testing. Learn how combining these methods can provide a robust strategy for detecting defects and verifying software performance, ensuring that your software meets user expectations and compliance requirements.',
@@ -208,7 +208,7 @@ function article_3() {
 }
 function article_4() {
   return {
-    date: '7 May 2023',
+    date: '26 May 2023',
     title: 'Test Automation: The Revolution in Software Quality Assurance',
     description:
       'Explore the world of test automation and discover how it transforms software quality assurance processes. This article delves into the fundamental concepts of test automation, its benefits and challenges, and provides practical examples to illustrate how automation can enhance testing efficiency and effectiveness.',
